@@ -1,0 +1,1 @@
+Para abrir o jogo basta compilar Menu.java em um IDE que consiga compilar ficheiros java
